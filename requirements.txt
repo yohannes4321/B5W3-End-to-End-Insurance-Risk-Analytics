@@ -1,0 +1,5 @@
+pandas
+seaborn
+dvc
+matplotlib
+scipy
