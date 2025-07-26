@@ -128,10 +128,18 @@ credit-risk-model/
 Focus on understanding the concept of Credit Risk, particularly in the context of the Basel II Capital Accord.
 
 **Key References:**
- * [🖥️ Updated Homepage Screenshot](image/Updated_homepage.jpg) 
-  * [📊 Project Architecture Diagram](image/Project%20Architecture.drawio.png) 
-* [📌 Risk Officer - Credit Risk](image/687474~1.PNG)  
-  
+### 📌 Risk Officer - Credit Risk
+![Risk Officer - Credit Risk](image/687474~1.PNG)
+
+### 📊 Project Architecture Diagram
+![Project Architecture](image/Project%20Architecture.drawio.png)
+
+### 🖥️ Updated Homepage Screenshot
+![Updated Homepage](image/Updated_homepage.jpg)
+
+### 📈 Severity Feature Importance
+![Severity Feature Importance](image/severity_feature_importance.png)
+
     
       * [📈 Severity Feature Importance](image/severity_feature_importance.png)
 
