@@ -128,18 +128,12 @@ credit-risk-model/
 Focus on understanding the concept of Credit Risk, particularly in the context of the Basel II Capital Accord.
 
 **Key References:**
-
-  * [Credit Risk Overview](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A28n535.pdf)
-  * [Alternative Credit Scoring](https://www.hkma.gov.hk/media/eng/doc/key-functions/financial-infrastructure/alternative_credit_scoring.pdf)
-  * [Credit Scoring Approaches Guidelines](https://thedocs.worldbank.org/en/doc/935891585869698451-0130022020/original/CREDITSCORINGAPPROACHESGUIDELINESFINALWEB.pdf)
-  * [How to Develop a Credit Risk Model and Scorecard](https://towardsdatascience.com/how-to-develop-a-credit-risk-model-and-scorecard-91335fc01f03)
-  * [Credit Risk Defined](https://corporatefinanceinstitute.com/resources/commercial-lending/credit-risk/)
-  * [Risk Officer - Credit Risk](https://www.risk-officer.com/Credit_Risk.htm)
-
-  * [Risk Officer - Credit Risk](image/687474~1.PNG)
-  * [Risk Officer - Credit Risk](image/Project Architecture.drawio.png)
-    * [Risk Officer - Credit Risk](image/Updated_homepage.jpg)
-      * [Risk Officer - Credit Risk](image/  severity_feature_importance.png)
+ * [🖥️ Updated Homepage Screenshot](image/Updated_homepage.jpg) 
+  * [📊 Project Architecture Diagram](image/Project%20Architecture.drawio.png) 
+* [📌 Risk Officer - Credit Risk](image/687474~1.PNG)  
+  
+    
+      * [📈 Severity Feature Importance](image/severity_feature_importance.png)
 
  
   
