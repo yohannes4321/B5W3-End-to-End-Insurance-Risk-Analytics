@@ -129,13 +129,14 @@ Focus on understanding the concept of Credit Risk, particularly in the context o
 
 **Key References:**
 ### 📌 Risk Officer - Credit Risk
+
+### 🖥️ Updated Homepage Screenshot
+![Updated Homepage](image/Updated_homepage.jpg)
 ![Risk Officer - Credit Risk](image/687474~1.PNG)
 
 ### 📊 Project Architecture Diagram
 ![Project Architecture](image/Project%20Architecture.drawio.png)
 
-### 🖥️ Updated Homepage Screenshot
-![Updated Homepage](image/Updated_homepage.jpg)
 
 ### 📈 Severity Feature Importance
 ![Severity Feature Importance](image/severity_feature_importance.png)
